@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe cr libtabix.a  CMakeFiles/tabix.dir/bgzf.c.obj CMakeFiles/tabix.dir/kstring.c.obj CMakeFiles/tabix.dir/knetfile.c.obj CMakeFiles/tabix.dir/index.c.obj CMakeFiles/tabix.dir/bedidx.c.obj
+C:\MinGW\bin\ranlib.exe libtabix.a

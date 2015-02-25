@@ -1,0 +1,1 @@
+-IC:/Users/lenovo/project/view-cmake/samtools -IC:/Users/lenovo/project/view-cmake/tabix -IC:/Users/lenovo/project/view-cmake -IC:/Users/lenovo/project/view-cmake/samtools/win32 -I/wxWidgets-2.9.4/include -I/wxWidgets-2.9.4/lib/gcc_lib/mswud 

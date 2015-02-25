@@ -1,0 +1,3 @@
+C:/Users/lenovo/project/view-cmake/samtools/CMakeFiles/bam.dir
+C:/Users/lenovo/project/view-cmake/tabix/CMakeFiles/tabix.dir
+C:/Users/lenovo/project/view-cmake/CMakeFiles/view.dir

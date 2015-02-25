@@ -1,0 +1,17 @@
+This software(only my code part) is under GPLv3.
+
+but the packages: boost wxWidgets and samtools 
+have their own copyriht,you should be carefull 
+when use them.
+
+This software is developed by limeng at harbin 
+Engineering University china
+center for bioinformatics 408 lab
+Connect: 331060295@qq.com
+
+
+You can redistributed,copy or even modified it for any  purpose
+as long as this copyright is reserved.
+
+
+

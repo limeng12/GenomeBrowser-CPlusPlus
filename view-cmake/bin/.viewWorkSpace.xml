@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+  <PlotWindow Property0="chr1" Property1="F:\data\iotorrent\unique05.bam" Property2="115256508" Property3="0"/>
+  <PlotWindow Property0="chr1" Property1="F:\data\encodeRNAseq\wgEncodeHaibRnaSeqA549Dex1nmAlnRep1.bam" Property2="5910386" Property3="0"/>
+  <Vcf number="0"/>
+  <Gtf number="0"/>
+  <Gff number="0"/>
+  <Bed number="0"/>
+  <Bam number="2" Property0="F:\data\encodeRNAseq\wgEncodeHaibRnaSeqA549Dex1nmAlnRep1.bam" Property1="F:\data\iotorrent\unique05.bam"/>
+  <Fasta number="1" Property0="F:\data\fasta\chr1.fa"/>
+</workspace>
